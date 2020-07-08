@@ -131,10 +131,26 @@ nav {
 
 .footer-single-item{
     margin-left: 50px;
+    padding-right: 40px;
 }
 .footer-single-item ul li{
     list-style: none;
 }
 .container-footer-first{
-    background-color: black;
+    background-color:#282531;
+    overflow:hidden;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.footer-info{
+    padding-left: 30px;
+}
+.footer{
+    background-color:#282531;
+    overflow:hidden;
+    color: white;
+    text-align: center;
+    padding-bottom: 30px;
+    margin-bottom: 100px;
 }
